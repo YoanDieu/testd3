@@ -1,0 +1,112 @@
+{
+  "name": "Max",
+  "value": 200,
+  "children": [
+    {
+      "name": "Sylvia",
+      "value": 100,
+      "children": [
+        {
+          "name": "Craig",
+          "value": 50,
+          "children": [
+            {
+              "name": "Gilliane",
+              "value": 25
+            }
+          ]
+        },
+        {
+          "name": "Robin",
+          "value": 50,
+          "children": [
+            {
+              "name": "Josh",
+              "value": 25
+            },
+            {
+              "name": "Dana",
+              "value": 25
+            }
+          ]
+        },
+        {
+          "name": "Anna",
+          "value": 50
+          }
+      ]
+    },
+    {
+      "name": "David",
+      "value": 100,
+      "children": [
+        {
+          "name": "Jeff",
+          "value": 50,
+          "children": [
+            {
+              "name": "Sam",
+              "value": 25,
+              "children": [
+                {
+                  "name": "Tania",
+                  "value": 12.5
+                },
+                {
+                  "name": "Albert",
+                  "value": 12.5
+                },
+                {
+                  "name": "Oswald",
+                  "value": 12.5
+                }
+              ]
+            },
+            {
+              "name": "Victor",
+              "value": 25,
+              "children": [
+                {
+                  "name": "Ash",
+                  "value": 12.5
+                },
+                {
+                  "name": "Camille",
+                  "value": 12.5
+                }
+              ]
+            },
+            {
+              "name": "Leif",
+              "value": 25,
+              "children": [
+                {
+                  "name": "Erikson",
+                  "value": 12.5
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Buffy",
+          "value": 50,
+          "children": [
+            {
+              "name": "Orie",
+              "value": 25
+            },
+            {
+              "name": "Norine",
+              "value": 25
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Mister X",
+      "value": 100
+    }
+  ]
+}
